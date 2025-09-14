@@ -10,6 +10,5 @@
 ## 3. Đề tài
 **Ứng dụng Đặt đồ ăn online**  
 Ứng dụng cho phép người dùng xem menu, đặt món, quản lý giỏ hàng và theo dõi trạng thái đơn hàng.
-## 4. Link GitHub
-https://github.com/TKGD-TTQL-2-Nhom/TKGD-DatDoAnOnline
+
 
